@@ -1,4 +1,5 @@
 import time
+import sys
 
 
 def decorator_function(input_function):

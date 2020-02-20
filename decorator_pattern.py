@@ -1,7 +1,7 @@
 import time
 import sys
 
-
+# This is a comment
 def decorator_function(input_function):
     def wrapper_function():
         t1 = time.time()

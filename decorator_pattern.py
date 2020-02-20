@@ -10,7 +10,7 @@ def decorator_function(input_function):
         print("the difference is", t2 - t1)
     return wrapper_function()
 
-
+# this is a comment
 @decorator_function
 def simple_function():
     list_data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
